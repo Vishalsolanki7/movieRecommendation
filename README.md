@@ -1,9 +1,5 @@
-
-Introduction
+Plan of Action
  
- Plan of Action
- 
-
 We obtained the open-source Big data movies dataset for this project and used Content-based and Collaborative based recommendations to produce a data frame that can be visualized on a website.
 
 Environment Setup
@@ -31,14 +27,16 @@ Workflow Diagram
 
 
 
-References for dataset 
+References for dataset: 
+
 tmdb_5000_credits.csv from Kaggle
 tmdb_5000_movies.csv from Kaggle
 Movie_Titles.csv from Grouplens
 
 Kaggle dataset link: https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
+
 Group-lens dataset link: https://grouplens.org/datasets/movielens/ 
-https://docs.streamlit.io/
+framework: https://docs.streamlit.io/
 
 Authors
 
@@ -47,4 +45,4 @@ Authors
 ●	Shoaib Ahmed
 ●	Purvesh Patel
 
-![image](https://user-images.githubusercontent.com/62815760/139036794-7864acea-8c28-4e0b-9a15-531e43888e8c.png)
+

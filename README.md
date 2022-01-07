@@ -44,9 +44,9 @@ framework: https://docs.streamlit.io/
 
 Authors
 
-●	Vishal Solanki
-●	Ravleen Kaur
-●	Shoaib Ahmed
-●	Purvesh Patel
+●	@Vishal Solanki
+●	@Ravleen Kaur
+●	@Shoaib Ahmed
+●	@Purvesh Patel
 
 
